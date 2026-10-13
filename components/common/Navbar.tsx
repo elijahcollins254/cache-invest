@@ -3,7 +3,7 @@
 import { useEffect, useState } from 'react';
 import { useUser } from '@auth0/nextjs-auth0/client';
 import { GiBee } from 'react-icons/gi';
-import { NavLink } from '../common';
+import { NavLink } from '.';
 
 export default function Navbar() {
 	// State to track gradient background position

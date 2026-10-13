@@ -1,4 +1,4 @@
-import { Spinner } from '../common';
+import { Spinner } from '.';
 
 interface Config {
 	label: string;
